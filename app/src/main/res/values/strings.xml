@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">DevProfile</string>
+    <string name="xlImageImg_Description">Images</string>
+    <string name="xlCodeImg_Description">Code</string>
+    <string name="xlData_Description">Data</string>
+    <string name="xlVideosImg_Description">Videos</string>
+    <string name="xlDevslopesTxt_text">Devslopes</string>
+    <string name="xlCustomizeBtn_text">CUSTOMIZE DASHBOARD</string>
+    <string name="logoImg">Logo</string>
 </resources>
